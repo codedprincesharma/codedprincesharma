@@ -1,109 +1,68 @@
-# 👋 Hi, I’m Prince Raj  
-## 🚀 Full-Stack Developer | Backend-Focused | Scalable Systems Enthusiast
+# 💫 Hey Prince Raj Here....
 
-I’m a **Full-Stack Developer** who can **design, build, deploy, and maintain complete production-ready applications** — not just write code, but ship real products.
-
-I focus heavily on **backend architecture, performance, and system design**, while still delivering **clean, smooth, and scalable frontend experiences**.
-
----
-
-## 🧠 What “Full-Stack Developer” Means to Me
-
-Being full-stack is not about knowing *many tools* —  
-it’s about **owning the product end-to-end**.
-
-I can:
-
-- 🎨 Design and build **scalable, component-based UIs** with smooth UX  
-  *(React, Next.js, Tailwind CSS, GSAP)*
-
-- ⚙️ Architect and develop **secure, performant backends**  
-  *(Node.js, Express.js, MongoDB)*
-
-- 🧩 Design **microservice-oriented systems**  
-  with async processing, message queues, and background workers  
-  *(RabbitMQ, Cron Jobs)*
-
-- ⚡ Build **real-time features**  
-  *(WebSockets)*
-
-- 🚀 Optimize performance using  
-  **Redis caching, rate limiting, and query optimization**
-
-- 🔐 Implement **authentication & authorization**  
-  *(JWT, Google OAuth, role-based access)*
-
-- 📧 Build **email & notification systems**  
-  *(Queues + background workers)*
-
-- 💳 Integrate **payment gateways**  
-  *(Razorpay)*
-
-- 🤖 Integrate **AI features** into web applications
-
-- ☁️ Deploy, monitor, and maintain applications in production
+🤝 I'm open to **collaborations & open-source contributions**  
+🌱 Currently learning **System Design & Backend Architecture**  
+💬 Ask me about **Full-Stack Web Development (Backend-Focused)**  
 
 ---
 
-## 🛠 Tech Stack
-
-### Frontend
-- React.js  
-- Next.js (App Router)  
-- Tailwind CSS  
-- GSAP (Animations)  
-- Redux Toolkit  
-
-### Backend
-- Node.js  
-- Express.js  
-- MongoDB  
-- Redis  
-- RabbitMQ  
-- WebSockets  
-
-### Auth, Payments & Services
-- Google OAuth  
-- JWT Authentication  
-- Email Services  
-- Razorpay Payment Gateway  
-
-### Dev & Architecture
-- REST APIs  
-- Microservices Architecture  
-- Async Processing  
-- Caching & Rate Limiting  
-- Production-level Folder Structures  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-sharma-raj-065544330/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://vs-portfolio-gamma.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:hit.princeraj@gmail.com)
 
 ---
 
-## 🧩 Real-World Experience
+# 💻 Tech Stack:
 
-- Built **full-stack production applications**
-- Completed **freelance projects**
-- Designed **admin panels, dashboards, and real-time systems**
-- Implemented **certificate generation, email queues, and background jobs**
-- Strong focus on **clean code, maintainability, and performance**
+### 🚀 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### 🔐 Auth • Payments • Services
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![Google OAuth](https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
+
+### 🧰 Tools & DevOps
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
-## 🎯 Current Focus
-
-- Advanced **backend system design**
-- High-performance APIs
-- Scalable architectures
-- Preparing for **top-tier tech companies**
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=princeraj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=princeraj&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=princeraj&theme=radical&hide_border=false&layout=compact)
 
 ---
 
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/prince-sharma-raj-065544330/  
-- 🌐 Portfolio: https://vs-portfolio-gamma.vercel.app/  
-- 📧 Email: hit.princeraj@gmail.com  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=princeraj&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-### ⭐ Fun Fact
-> I don’t just build features —  
-> **I build systems that survive production.**
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=princeraj&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
+## 👀 Profile Views
+[![](https://visitcount.itsvg.in/api?id=princeraj&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
+---
+
+>  *I don’t just build features — I build scalable systems that survive production.*
+
