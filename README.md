@@ -42,27 +42,5 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=princeraj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=princeraj&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=princeraj&theme=radical&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=princeraj&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=princeraj&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
-## 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=princeraj&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-
----
-
 >  *I don’t just build features — I build scalable systems that survive production.*
 
